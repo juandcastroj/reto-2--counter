@@ -1,0 +1,40 @@
+
+
+*{
+     background-color: hsl(236, 21%, 26%); 
+    text-align: center;
+    background-image: 'pattern-hills.svg';
+    
+}
+
+h1{
+    color: #fff;
+    padding: 4%;
+    font-size: 4em;
+}
+
+h2{
+    color: hsl(345, 95%, 68%);
+    padding: 30px;
+    font-weight: bolder;
+}
+
+h4{
+    color: hsl(237, 18%, 59%);
+    padding: 20px;
+}
+
+.timer-container{
+    margin: 10%;
+}
+
+.bodyCard{
+
+   background-color: hsl(237, 18%, 59%);
+    padding: 2%;
+}
+
+img{
+    padding-top: 10%;
+    padding-right: 20px;
+}
